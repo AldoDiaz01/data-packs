@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g#",
+        "ggg",
+        "GgG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        }
+    },
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    }
+}

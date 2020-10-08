@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "GCG",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "L": {
+            "item": "minecraft:lime_dye"
+        },
+        "G": {
+            "item": "minecraft:green_dye"
+        },
+        "C": {
+            "item": "minecraft:clay_ball"
+        }
+    },
+    "result": {
+        "item": "minecraft:ender_pearl",
+        "count": 1
+    }
+}
