@@ -1,13 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " ##",
-        " P#",
-        "P  "
+        " PD",
+        " DP",
+        "D  "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:iron_sword"
+        "D": {
+            "item": "minecraft:diamond"
         },
         "P": {
             "item": "minecraft:prismarine_shard"

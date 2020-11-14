@@ -1,16 +1,22 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "  i",
-        " L ",
-        "L  "
+        "  S",
+        "GPG",
+        " L "
     ],
     "key": {
-        "i": {
-            "item": "minecraft:iron_ingot"
+        "S": {
+           "item": "minecraft:string"
         },
+        "G": {
+			"item": "minecraft:gold_ingot"
+		},
         "L": {
             "item": "minecraft:leather"
+        },
+		"P": {
+            "item": "minecraft:paper"
         }
     },
     "result": {
