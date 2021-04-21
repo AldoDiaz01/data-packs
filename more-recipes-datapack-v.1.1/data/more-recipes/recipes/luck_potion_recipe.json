@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "REU",
+        "RBU"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "E": {
+            "item": "minecraft:experience_bottle"
+        },
+        "U": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:potion.effect.luck",
+        "count": 1
+    }
+}
